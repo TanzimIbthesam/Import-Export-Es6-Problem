@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.min.css"],"names":[],"mappings":"AAEA,KACI,eAFA,CAIJ,EACI,iCAAY,CAAZ,yBAAY","file":"style.min.css","sourcesContent":["// @import 'base/variables';\r\n$bg:blue;\r\nbody{\r\n    background: $bg;\r\n}\r\na{\r\n    transition: all 320ms ease;\r\n}"]}
